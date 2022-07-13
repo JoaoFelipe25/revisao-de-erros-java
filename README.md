@@ -1,3 +1,3 @@
 # Revisão da semana
 
-## Erros e Exceptions do Java
+## Erro e Exceçaõ do Java
